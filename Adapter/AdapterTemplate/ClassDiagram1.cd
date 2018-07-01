@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="adaptee.SpecificRequest()">
+    <Position X="4.062" Y="4.635" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="AdapterTemplate.Client">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AdapterTemplateClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterTemplate.Target">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdapterTemplateClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterTemplate.Adapter">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdapterTemplateClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterTemplate.Adaptee">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdapterTemplateClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
